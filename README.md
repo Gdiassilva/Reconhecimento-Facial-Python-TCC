@@ -23,6 +23,9 @@ Webcam funcional
 Sistema com suporte a bibliotecas de visão computacional
 
 🎥 Exemplo de Funcionamento:
+
+
+
 ![image](https://github.com/user-attachments/assets/2faa11d1-8b20-41e4-af50-291339d2f40b)
 
 📜 Licença
