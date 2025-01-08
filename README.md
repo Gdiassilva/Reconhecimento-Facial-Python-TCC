@@ -38,6 +38,11 @@ pip install opencv-python dlib face-recognition numpy scipy
 ### 4. Baixe o arquivo shape_predictor_68_face_landmarks.dat
 - O arquivo de landmarks faciais é necessário para detectar olhos e pontos da face.
 - Coloque o arquivo na pasta do projeto.
+- Ele pode ser encontrado em https://github.com/davisking/dlib-models
+
+O arquivo tem a função de gerar um número para cada ponto facial conforme a imagem abaixo:
+
+![81_facial_landmarks_reference](https://github.com/user-attachments/assets/05315bc1-ce8f-4112-8920-a15e2ba7db8d)
 
 ## 5. Execute o arquivo principal
 Inicie o programa com:
