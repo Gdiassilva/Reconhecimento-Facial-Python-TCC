@@ -1,6 +1,3 @@
-# Reconhecimento-Facial-Python-TCC
-Código do TCC sobre controle de acesso com reconhecimento facial em subestações elétricas utilizando Python e OpenCV
-
 # Reconhecimento-Facial-Python-TCC  
 Este repositório contém o código do meu TCC sobre controle de acesso utilizando reconhecimento facial em subestações elétricas com **Python** e **OpenCV**.
 
