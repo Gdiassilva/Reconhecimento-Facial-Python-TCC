@@ -35,4 +35,5 @@ Este projeto está licenciado sob a MIT License. Consulte o arquivo LICENSE para
 Se tiver dúvidas ou sugestões, entre em contato:
 
 E-mail: gabriel.engmack@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/gabriel-dias-silva-perfil/
